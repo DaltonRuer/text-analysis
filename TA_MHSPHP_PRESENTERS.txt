@@ -1,0 +1,456 @@
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
+Harry Potter: Good morning
+Minerva MacGonagall: Harry, i can see your mouse move on the screen, so i will change you to presenter later if you move it to much so it doesnt distract
+Harry Potter: k
+Harry Potter: understood
+Minerva MacGonagall: right now i need you to make others presenters if you see them,,,Ron, Albus, Fudge, Hermione
+Harry Potter: k
+Minerva MacGonagall: THANK YOU
+Ron Weasley: g'morning!
+Ron Weasley: Albus is on... how to make him a presenter?
+Harry Potter: already did
+Albus Dumbledore: Woot Woot!!!!
+Harry Potter: Awesome
+Ron Weasley: Minerva - make Harry a presenter again
+Albus Dumbledore: YOU ROCK!!!
+Harry Potter: Thanks you
+Albus Dumbledore: Recommend Naloxone flag
+Hermione Granger: serveral question pertain to customized info
+Albus Dumbledore: You are G2G!
+Hermione Granger: example - recommedn naloxone report
+Harry Potter: good idea
+Albus Dumbledore: Make patient summary report dates customizable
+Hermione Granger: Question about when MyLayouts was added - I don't know
+Albus Dumbledore: when was the MyLayouts functionality added?
+Harry Potter: was added a while back
+Albus Dumbledore: Thx
+Harry Potter: 2 application updates ago
+Harry Potter: about 4 weeks
+Hermione Granger: question "Can you explain the "Active IngredientCount".  Where does that pull from, does it include expired meds?  What can a provider to in CHCS or AHLTA to verify that the actual number of active meds is correct?"  I don't know about expired meds
+Hermione Granger: thx Ron
+Albus Dumbledore: Does everyone now have access to the Patient Lookup tool?
+Albus Dumbledore: Or only Pharmnacy User role
+Ron Weasley: Chris said yes, as of two days ago
+Ron Weasley: everyone should have access
+Harry Potter: correct
+Harry Potter: all who have phi ccess, should be able to see it
+Harry Potter: * access
+Albus Dumbledore: I have PHI EXCESS does that count Harry?
+Harry Potter: i think so
+Albus Dumbledore: :)
+Ron Weasley: Harry - question regarding wildcards
+Harry Potter: yes
+Harry Potter: FYI: Contains in the query builder uses the SQL equivalent of '%<SEARCH>%'
+Albus Dumbledore: I gotta pee!!!!!!
+Harry Potter: lol
+Harry Potter: * demo Schedules Reports
+Minerva MacGonagall: look at slide
+Harry Potter: k
+Hermione Granger: I'm not sure about the traffic lights . . 
+Ron Weasley: Harry or Minerva question
+Harry Potter: It is possible
+Harry Potter: we can resue the traffic lights for other stuff
+Ron Weasley: can you filter on the traffic lights?
+Harry Potter: yes
+Hermione Granger: I think he's saying he currently sees traffic lights
+Harry Potter: they are numeric
+Hermione Granger: I don't know this answer . . .
+Hermione Granger:  can this report be generated for individual pts--like to obtain the diabetic summary report for a patient scheduled that day
+Hermione Granger: Minerva is answering - thx
+Harry Potter: @Hermione, yes, it can track individual patients
+Ron Weasley: You can do what Laurel suggests... create filter with comma seperated patids then schedule that to run daily
+Ron Weasley: potty break for me in a few.  will keep listening but can't type
+Albus Dumbledore: Ron..mute, we can hear you..
+Albus Dumbledore: LOL
+Hermione Granger: too funny . . .
+Harry Potter: wash your hands
+Harry Potter: @ Ron
+Harry Potter: @Dr Albus - REALLY
+Harry Potter: REALLY
+Harry Potter: lol
+Albus Dumbledore: @Harrytheknuckledragger
+Albus Dumbledore: :)
+Harry Potter: Knuckle Draggers rock!!!
+Albus Dumbledore: Downer...what a name.
+Hermione Granger: Peace out peeps!
+Albus Dumbledore: caio for naio brown caio
+Minerva MacGonagall: good night
